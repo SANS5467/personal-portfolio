@@ -133,19 +133,10 @@ export const educationList = [
     icon: nitk,
     title: "National Institute of Technology Karnataka, Surathkal",
     degree: "Bachelor of Technology",
-    duration: "December 2020 - May 2024",
-    content1: "Major: Electronics and Communication Engineering",
-    content2: "Minor: Information Technology",
-  },
-  {
-    id: "education-2",
-    icon: pba,
-    title: "Polkadot Blockchain Academy",
-    degree: "",
-    duration: "May 2024 - June 2024",
-    content1:
-      "Graduated with a distinction in the fifth cohort of the Polkadot Blockchain Academy at the National University of Singapore.",
-  },
+    duration: "September 2025 - May 2029 (hopefully)",
+    content1: "Major: Mining Engineering",
+    content2: "Minor: second sem brooooo",
+  }
 ];
 
 // Add your past achievements here for example - rankings in hackathons/events
@@ -515,20 +506,20 @@ export const experiences = [
     ],
   },
   {
-    organisation: "Averlon",
-    logo: averlon,
-    link: "https://averlon.ai/",
+    organisation: "NITK Surathkal",
+    logo: nitk,
+    link: "https://youtu.be/TvqpiUlMsB4?si=d28F30Xv0m52d1y9",
     positions: [
       {
-        title: "Software Developer Intern",
-        duration: "Sept 2023 - Feb 2024",
+        title: "Mining engineer",
+        duration: "Sept 2025 - Feb 2029",
         content: [
           {
-            text: "Added support for the discoverability of Microsoft Azure assets utilising Go and Gremlin.",
+            text: "Got 9 CG in Mathematics first semester.",
             link: "",
           },
           {
-            text: "Extended support for Azure for reachability analysis of assets for cloud security posture management.",
+            text: "Got into LSD stage and literature.",
             link: "",
           },
         ],
