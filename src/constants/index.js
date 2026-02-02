@@ -1160,9 +1160,9 @@ export const aboutMe = {
   name: "Sanjana",
   githubUsername: "mittal-parth",
   tagLine:
-    "MTS @ Oracle | 12x Hackathon Winner 🏆 | ETHIndia'22,24 Winner | NITK'24 | PBA-5",
+    "Student at NITK Surathkal",
   intro:
-    "Software Developer from India who is either busy improving his craft or pondering over the next big idea.",
+    "Aspiring Mining engineer :(",
 };
 
 // The maximum number of PRs to be displayed in the Open Source Contributions section.
